@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Outfit', sans-serif;
+    margin-left: 100px;
+}
+
+.navbar{
+    margin-left: 100px;
+
+}
+
+.navbar-nav{
+    margin-left: 20px;
+}
+
+.btn-outline-danger{
+    margin-left: 180px;
+}
+.nav-item{
+    font-size: 20px;
+    padding-left: 20px;
+    
+}
+
+.navbar-brand,img{
+    width: 100px;
+}
+
+.spcl1{
+    padding-left: 40px;
+}
+
+.spcl{
+    padding-left: 10px;
+}
+
+.main-header{
+    display: flex;
+}
+
+.left-text{
+    margin: 50px 0 0 120px;
+}
+
+.heading-main{
+    padding: 30px 10px 20px 0;
+    
+}
+
+
+.para-main{
+    font-size: 17px;
+    color: #FF8E9E;
+    padding-bottom: 10px;
+}
+
+.right-image{
+    display: flex;
+    margin: 70px 0 0 200px;
+}
+
+.content-main{
+    display: flex;
+
+}
+
+.about-heading{
+    padding: 70px 0 0 120px;
+    font-size: 20px;
+    color: #E96479;
+}
+
+.about-text{
+    text-align: left;
+    font-size: 18px;
+    padding-left: 120px;
+    padding-top: 20px;
+}
+
+.carousel-head{
+    background-color: #E96479;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+    margin: 70px 0 0 120px;
+}
+
+.about-left{
+    width: 65%;
+}
+.content-carousel{
+    padding: 70px 0 10px 120px;
+}
+
+.one-slide{
+    display: flex;
+}
+
+.idk{
+    padding-right: 40px;
+}
+
+.text-all{
+    padding: 50px 0 0 120px;
+    font-size: 18px;
+}
+.right-advertise{
+    padding-top: 70px;
+    padding-right: 120px;
+}
+
+.adv img{
+    width: 410px;
+}
+
+.adv-head{
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.adv a{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 70px;;
+}
+
+.ad{
+    text-align: center;
+    padding: 10px 0 50px 0;
+    color: #E96479;
+}
+
+.faq-head{
+    text-align: center;
+    color: #E96479;
+}
+
+.faq-drop{
+    text-align: center;
+    padding-top: 30px 
+}
+
+.dropdown-center{
+    padding: 10px 0 20px 0;
+}
+
+.desc{
+    text-align: center;
+    padding: 5px;
+}
+
+.HR{
+    text-align: center;
+    align-items: center;
+}
+
+.features{
+    
+    width: 100%;
+    height: 360px;
+    background-color: #BDCDD6;
+}
+.head-feat{
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.feat-img{
+    display: flex;
+    margin-left: 310px;
+    padding: 10px;
+}
+
+.feat-1:hover {
+    color: #E96479;
+}
+
+section {
+    padding: 60px 0;
+}
+.footer {
+background: linear-gradient(105deg,#fffcfd ,#ffffff);
+padding-top: 80px;
+padding-bottom: 40px;
+}
+
+.footer a{
+    color: inherit;
+    text-decoration: none;
+}
